@@ -143,5 +143,3 @@ Planned improvements for this project include:
 - Improving reproducibility and experiment tracking
 
 These improvements will be implemented iteratively in future versions of the project.
-
-Install
