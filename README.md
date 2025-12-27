@@ -39,14 +39,14 @@ Libraries used:
 
 Create and activate a virtual environment:
 
-python -m venv .venv  
+`python -m venv .venv  
 source .venv/bin/activate   (macOS / Linux)  
-.venv\Scripts\activate      (Windows)
+.venv\Scripts\activate      (Windows)`
 
 Install dependencies:
 
-pip install -U pip  
-pip install pandas numpy scipy matplotlib seaborn scikit-learn xgboost lightgbm catboost jupyter  
+`pip install -U pip  
+pip install pandas numpy scipy matplotlib seaborn scikit-learn xgboost lightgbm catboost jupyter  `
 
 Run Jupyter:
 
